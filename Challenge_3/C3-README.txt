@@ -20,9 +20,9 @@ Step One:   Download Answers repo from GitHub.
 
 Step Two:   Go to Downloads & unzip the Answers.zip
 
-Step Three: Drag Answers folder into C drive. (Ensure it is not in a second Answers folder.)
+Step Three: Drag 'Answers-main' folder into C drive & rename the folder to 'Answers'. (Ensure it is not in a second Answers-main folder.)
 
-Step Four:  Open powershell.
+Step Four:  Open powershell. (May need to run as admin)
 
 [Instead of Step 5-7 you can run QuickStart.ps1 to autorun it. You may have to click "Open" & enter "R" twice if prompted!]
 
