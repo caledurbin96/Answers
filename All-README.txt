@@ -112,7 +112,7 @@ C:\Answers\Challenge_2\Answer2.ps1 -Path 'C:\Answers\Challenge_2\blocklist.txt'
 
 ##CHALLENGE 3##
 
-Retrieves economic data from a Federal Reserve Bank of St. Louis API and saves it to CSV files.
+Retrieves economic data from a Federal Reserve Bank of St. Louis API and saves it to json files.
 
 
 
@@ -167,6 +167,7 @@ C:\Answers\Challenge_3\Answer3.ps1 -SeriesId DGS10 -Start 2015-01-01
 0 = Success
 2 = No observations / unusable data
 99 = Unknown error
+
 
 
 
