@@ -23,7 +23,7 @@ Step Two:   Go to Downloads & unzip the Answers.zip
 
 Step Three: Step Three: Drag 'Answers-main' folder into C drive & rename the folder to 'Answers'. (Ensure it is not in a second Answers-main folder.)
 
-Step Four:  Open powershell.
+Step Four:  Open powershell. (May need to run as admin.)
 
 [Instead of Step 5 you can open QuickStart.ps1 or run it in powershell to autorun it. You may have to click "Open" & enter "R" twice if prompted!]
 
