@@ -1,6 +1,6 @@
 CHALLENGE 3
 
-Retrieves economic data from a Federal Reserve Bank of St. Louis API and saves it to CSV files.
+Retrieves economic data from a Federal Reserve Bank of St. Louis API and saves it to json files.
 
 
 
